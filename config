@@ -1,0 +1,3 @@
+Host 3.92.52.213
+    User ec2-user
+    IdentityFile "C:\Users\d4whi\Downloads\dwhip-ansible.pem"
